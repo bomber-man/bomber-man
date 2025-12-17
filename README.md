@@ -31,7 +31,7 @@
 - 🔬 **Testing Types:** Functional Testing, UI/UX Testing, API Testing, Regression Testing  
 - 🔧 **Tools & Platforms:** Postman, Swagger, GitHub, GitLab  
 - 📦 **Open Source Contributions:** [Bagisto](https://github.com/bagisto/bagisto), [Krayin CRM](https://github.com/krayin/laravel-crm), [Aureus ERP](https://github.com/aureuserp/aureuserp)  
-- 💳 **Domains:** E-commerce, B2B Solutions, POS, Payment Gateways  
+- 💳 **Domains:** E-commerce, CRM, Marketpalce, SaaS Multilevel Marketplace, B2B Solutions, POS.  
 
 ---
 
